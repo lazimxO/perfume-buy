@@ -1,0 +1,8 @@
+{
+  "name": "perfume-collection",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongodb": "^5.1.0",
+    "axios": "^1.4.0"
+  }
+}
